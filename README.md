@@ -28,9 +28,6 @@ App en la cual podrás buscar tus series y películas favoritas.
 
 ![demo](https://user-images.githubusercontent.com/89490823/228988145-54bb9565-a79d-4e53-87ca-5301b8179daf.gif)
 
-[![React Movie](https://res.cloudinary.com/marcomontalbano/image/upload/v1680220314/video_to_markdown/images/google-drive--1b0yhl78griJXp3vfKK2NOtJQS2v0KiEM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1b0yhl78griJXp3vfKK2NOtJQS2v0KiEM/view?usp=sharing "React Movie")
-
-
 ---
 
 ## Autor ✒️
