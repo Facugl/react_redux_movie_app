@@ -3,14 +3,14 @@
 
 ---
 
-## 🚀 Ejemplo en vivo
-- [Deploy en Render](https://react-redux-movie-app.onrender.com/)
-- [Open Movie Database API](https://www.omdbapi.com)
+## Descripción 📑
+App en la cual podrás buscar tus series y películas favoritas.
 
 ---
 
-## Descripción 📑
-App en la cual podrás buscar tus series y películas favoritas.
+## 🚀 Ejemplo en vivo
+- [Deploy en Render](https://react-redux-movie-app.onrender.com/)
+- [Open Movie Database API](https://www.omdbapi.com)
 
 ---
 
@@ -25,9 +25,11 @@ App en la cual podrás buscar tus series y películas favoritas.
 ---
 
 ## Vista previa del proyecto
-Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Home](https://i.ibb.co/t2TLyYL/react-redux-movie-app-onrender-com-1.png)
+![demo](https://user-images.githubusercontent.com/89490823/228988145-54bb9565-a79d-4e53-87ca-5301b8179daf.gif)
+
+[![React Movie](https://res.cloudinary.com/marcomontalbano/image/upload/v1680220314/video_to_markdown/images/google-drive--1b0yhl78griJXp3vfKK2NOtJQS2v0KiEM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1b0yhl78griJXp3vfKK2NOtJQS2v0KiEM/view?usp=sharing "React Movie")
+
 
 ---
 
@@ -38,5 +40,4 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 - [facundolunaok@gmail.com](facundolunaok@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/facundoluna/)
 - [Twitter](https://twitter.com/FacuFrontend)
-
 
