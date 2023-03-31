@@ -25,7 +25,6 @@ App en la cual podrás buscar tus series y películas favoritas.
 ---
 
 ## Vista previa del proyecto
-
 ![demo](https://user-images.githubusercontent.com/89490823/228988145-54bb9565-a79d-4e53-87ca-5301b8179daf.gif)
 
 ---
